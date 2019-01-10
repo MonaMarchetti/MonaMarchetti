@@ -1,0 +1,54 @@
+body {
+  background-color: #333b42;
+  color: #6c6e70;
+  font-family: 'Staatliches', cursive;
+}
+
+#header {
+  display: block;
+  width: 900px;
+  height: 150px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  -moz-border-radius: 10px; /* compatibilité avec Firefox */
+  -webkit-border-radius: 10px; /* compatibilité avec les navigateurs Webkit */
+  font-size: 18;
+  text-align: center;
+  border: 4px solid #6c6e70;
+}
+
+#image {
+  display: block;
+  width: 450px;
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  -moz-border-radius: 10px; /* compatibilité avec Firefox */
+  -webkit-border-radius: 10px; /* compatibilité avec les navigateurs Webkit */
+  background: url("avatar général Mona.jpeg") no-repeat center;
+  border: 4px solid #6c6e70;
+}
+
+#liste {
+  display: block;
+  width: 900px;
+  height: 180px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  -moz-border-radius: 10px; /* compatibilité avec Firefox */
+  -webkit-border-radius: 10px; /* compatibilité avec les navigateurs Webkit */
+  font-size: 18;
+  text-align: center;
+  border: 4px solid #6c6e70;
+}
